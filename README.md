@@ -5,4 +5,4 @@
 - Import file <b>shopping-cart.sql</b> yang ada dalam folder database
 
 ## website:
-https://www.plajarikode.com/2020/05/membuat-shopping-cart-dengan-php.html
+https://bertojuni.github.io/
